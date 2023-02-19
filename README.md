@@ -1,6 +1,6 @@
 # taaskmaster-pro
 
-https://sehaj97.github.io/taskmaster-pro/
+https://manage-projects.netlify.app/
 
 Title: Add task editing
 
